@@ -19,3 +19,13 @@ funcionasse em todos os países.</p>
 preenchimento automático dos dados do cartão de crédito na página de vendas
 e reportar os resultados ao Diretor de Produtos Global, para concluir se a nova
 forma de pagamento é realmente melhor do que a antiga.</p>
+
+## Desafio
+
+<p>Depois de alguns meses de experimento, o time de Designers da Electronic
+House, precisa avaliar os resultados do experimento realizado, a fim de concluir
+qual era a forma de pagamento mais eficaz.</p>
+<p>Porém, o time não possui as habilidades necessárias para avaliar os dados e
+concluir o experimento. Nesse contexto, o desafio como Cientista de
+Dados é ajudar o time de Designers a validar a efetividade do novo meio de
+pagamento, com mais confiança e rigidez na análise.</p>
