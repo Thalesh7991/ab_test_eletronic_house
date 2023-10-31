@@ -47,4 +47,15 @@ pagamento, com mais confiança e rigidez na análise.</p>
 |  group | Grupo a qual o cliente foi colocado. A = Preenchimento Automático; B = Preenchimento Manual |
 |  device | Dispositivo utilizado na compra. I = Compra Feita através do Site; A = Compra feita pelo App |
 
+## Resultados Obtidos
+
+<p>Foi necessária uma análise aprofundada por país para identificarmos a efetividade das páginas.</p>
+
+<p>No México a nova página tem o potencial de aumentar o faturamento da empresa em $ 1.569.801,00</p>
+<p>Na Áustria a nova página tem o potencial de aumentar o faturamento da empresa em $ 287.517,00 </p>
+
+<p>Totalizando um Aumento na Receita da empresa de $ 1.857.318,00</p>
+
+<p>Nos demais países foi possível identificar uma queda significativa de performance no faturamento. Portanto, não é recomendado a alteração para a nova página.</p>
+
 
