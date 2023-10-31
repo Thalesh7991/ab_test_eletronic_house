@@ -32,6 +32,7 @@ pagamento, com mais confiança e rigidez na análise.</p>
 
 ## Suposições de Negócio
 
+-> O time de negócio espera um lift de 15% no faturamento com a página nova.
 
 ## Dados Disponíveis
 
