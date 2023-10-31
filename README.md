@@ -51,10 +51,11 @@ pagamento, com mais confiança e rigidez na análise.</p>
 
 <p>Foi necessária uma análise aprofundada por país para identificarmos a efetividade das páginas.</p>
 
-<p>No México a nova página tem o potencial de aumentar o faturamento da empresa em $ 1.569.801,00</p>
-<p>Na Áustria a nova página tem o potencial de aumentar o faturamento da empresa em $ 287.517,00 </p>
+No México a nova página tem o potencial de **aumentar o faturamento da empresa em $ 1.569.801,00**
+<br>
+Na Áustria a nova página tem o potencial de **aumentar o faturamento da empresa em $ 287.517,00**
 
-<p>Totalizando um Aumento na Receita da empresa de $ 1.857.318,00</p>
+**Totalizando um Aumento na Receita da empresa de $ 1.857.318,00**
 
 <p>Nos demais países foi possível identificar uma queda significativa de performance no faturamento. Portanto, não é recomendado a alteração para a nova página.</p>
 
