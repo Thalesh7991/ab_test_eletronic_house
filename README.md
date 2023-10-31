@@ -29,3 +29,21 @@ qual era a forma de pagamento mais eficaz.</p>
 concluir o experimento. Nesse contexto, o desafio como Cientista de
 Dados é ajudar o time de Designers a validar a efetividade do novo meio de
 pagamento, com mais confiança e rigidez na análise.</p>
+
+## Suposições de Negócio
+
+
+## Dados Disponíveis
+
+| Atributos  |  Descrição |
+| ------------------- | ------------------- |
+|  uid |  ID do Cliente |
+|  country |  País onde foi feita a compra |
+|  gender |  Gênero do Cliente |
+|  spent |  Valor Gasto para o Cliente |
+|  purchases |  Quantidade de Compras |
+|  date |  Data da Compra |
+|  group | Grupo a qual o cliente foi colocado. A = Preenchimento Automático; B = Preenchimento Manual |
+|  device | Dispositivo utilizado na compra. I = Compra Feita através do Site; A = Compra feita pelo App |
+
+
